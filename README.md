@@ -14,6 +14,6 @@ Resultado da contagem.
 
 Imagem:
 
-<img src="img/img.png">
+<img src="imgens/img.png">
 
 
