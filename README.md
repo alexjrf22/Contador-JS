@@ -1,10 +1,18 @@
 # Horário
 
-## Meu primeiro projeto em **JS
+## Programa JS que faz uma contagem
 
-### Projeto simples mostra a hora do dia para o usário, aplica uma foto e muda o background referenciando: 
+### Entradas: 
 
-- Manhã
-- Tarde
-- Noite
+- Inicio
+- Fim
+- Passo
+
+### Saída:
+
+Resultado da contagem.
+
+Imagem:
+
+
 
